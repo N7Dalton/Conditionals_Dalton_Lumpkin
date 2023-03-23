@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conditionals_Dalton_Lumpkin/1.0.0": {
+        "runtime": {
+          "Conditionals_Dalton_Lumpkin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditionals_Dalton_Lumpkin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

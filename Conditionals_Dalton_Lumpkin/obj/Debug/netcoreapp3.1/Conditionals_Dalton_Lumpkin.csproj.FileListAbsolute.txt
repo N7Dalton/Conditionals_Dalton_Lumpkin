@@ -1,0 +1,14 @@
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\bin\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.exe
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\bin\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.deps.json
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\bin\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.runtimeconfig.json
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\bin\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.runtimeconfig.dev.json
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\bin\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.dll
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\bin\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.pdb
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.csproj.AssemblyReference.cache
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.AssemblyInfoInputs.cache
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.AssemblyInfo.cs
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.csproj.CoreCompileInputs.cache
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.dll
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.pdb
+C:\Users\dalton.lumpkin\source\repos\Conditionals_Dalton_Lumpkin\Conditionals_Dalton_Lumpkin\obj\Debug\netcoreapp3.1\Conditionals_Dalton_Lumpkin.genruntimeconfig.cache
